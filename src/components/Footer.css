@@ -1,0 +1,21 @@
+.contact {
+  width: 100%;
+  padding: 10em 0;
+  background-color: rgb(0, 0, 0, 0.85);
+}
+
+.connect p {
+  font-size: 2em;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+}
+
+.socials:hover {
+  cursor: pointer;
+}

@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  background-color: #000000;
+}
+
+h1, h4, p, a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.btn {
+  padding: 12px 32px;
+  font-size: 1em;
+  text-transform: uppercase;
+  background: #ff8c00;
+  color: black;
+  border: 1px solid white;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: whitesmoke;
+  color: black;
+  transition: 0.3s;
+}
