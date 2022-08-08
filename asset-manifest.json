@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7021677c.css",
+    "main.js": "/portfolio/static/js/main.3a2c0cdb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Quiztacular.png": "/portfolio/static/media/Quiztacular.d7b0e6e23d5094dae1f0.png",
+    "static/media/Wumboflix.png": "/portfolio/static/media/Wumboflix.e3b991866fc417e59bf2.png",
+    "static/media/onlyFriendZ.png": "/portfolio/static/media/onlyFriendZ.1ada1d82425eca8c9333.png",
+    "static/media/rocketship.png": "/portfolio/static/media/rocketship.dd1f0f4b5b89bce44d39.png",
+    "static/media/TinyApp.png": "/portfolio/static/media/TinyApp.aec21ec00ef5f6b75215.png",
+    "static/media/Notes.png": "/portfolio/static/media/Notes.d8c897be25730cd8ce9b.png",
+    "static/media/Tweeter2.jpg": "/portfolio/static/media/Tweeter2.23004ea30a6d9d0fb841.jpg",
+    "static/media/Create.jpg": "/portfolio/static/media/Create.d628c52cb686ec2e9b4e.jpg",
+    "static/media/list.png": "/portfolio/static/media/list.53c387f3263f4721b433.png",
+    "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/patrick.png": "/portfolio/static/media/patrick.71dc6fcbc3e2fc8a690f.png",
+    "index.html": "/portfolio/index.html",
+    "main.7021677c.css.map": "/portfolio/static/css/main.7021677c.css.map",
+    "main.3a2c0cdb.js.map": "/portfolio/static/js/main.3a2c0cdb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7021677c.css",
+    "static/js/main.3a2c0cdb.js"
+  ]
+}
