@@ -31,11 +31,11 @@ const Project = () => {
         <h1>Projects</h1>
       </div>
 
-      <div className="container" onClick={(e) => {  e.preventDefault(); window.open('https://github.com/patar-nguyen/rn-authenticator')}}>
+      <div className="container" onClick={(e) => {  e.preventDefault(); window.open('https://github.com/patar-nguyen/bluerocket')}}>
         <img className="img" src={img9} width="350px" height="400px" alt="authenticator"/>
         <div className="overlay">
           <div className="content">
-            <div className="title">Authenticator</div>
+            <div className="title">BlueRocket</div>
             <p className="description">Authentication that allows users to register and login with an account.</p>
           </div>
         </div>
