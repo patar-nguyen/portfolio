@@ -8,7 +8,7 @@ import img5 from '../images/onlyFriendZ.png';
 import img6 from '../images/Create.jpg';
 import img7 from '../images/TinyApp.png';
 import img8 from '../images/list.png';
-import img9 from '../images/Login.png';
+import img9 from '../images/Main.png';
 const Project = () => {
 
   const projects = [
@@ -31,11 +31,11 @@ const Project = () => {
         <h1>Projects</h1>
       </div>
 
-      <div className="container" onClick={(e) => {  e.preventDefault(); window.open('https://github.com/patar-nguyen/bluerocket')}}>
+      <div className="container" onClick={(e) => {  e.preventDefault(); window.open('https://github.com/patar-nguyen/team-rocket')}}>
         <img className="img" src={img9} width="350px" height="400px" alt="authenticator"/>
         <div className="overlay">
           <div className="content">
-            <div className="title">BlueRocket</div>
+            <div className="title">Team Rocket</div>
             <p className="description">Authentication that allows users to register and login with an account.</p>
           </div>
         </div>
